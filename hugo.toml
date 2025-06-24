@@ -1,0 +1,57 @@
+baseURL = 'https://jadehand.cn/'
+languageCode = 'zh-cn'
+title = 'JadeHand Blog'
+theme = 'diary'
+
+[params]
+  # 网站描述
+  description = "JadeHand 的个人博客 - 分享技术、生活和思考"
+  
+  # 作者信息
+  author = "JadeHand"
+  
+  # 社交媒体链接
+  github = "your-github-username"
+  twitter = "your-twitter-username"
+  
+  # 网站图标
+  favicon = "/favicon.ico"
+  
+  # 是否显示目录
+  toc = true
+  
+  # 是否显示阅读时间
+  readingTime = true
+  
+  # 每页显示的文章数量
+  paginate = 10
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "首页"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "posts"
+    name = "文章"
+    url = "/posts/"
+    weight = 2
+  [[menu.main]]
+    identifier = "about"
+    name = "关于"
+    url = "/about/"
+    weight = 3
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = "github"
+    lineNos = true
