@@ -2,10 +2,10 @@
 title: "欢迎来到我的博客"
 date: 2024-01-01
 draft: false
+categories: "生活"
+tags: "博客, 介绍"
 description: "欢迎来到JadeHand的个人博客，这里将分享技术、生活和思考"
 keywords: ["博客", "欢迎", "介绍"]
-tags: ["博客", "介绍"]
-categories: ["生活"]
 author: "JadeHand"
 showToc: true
 TocOpen: false
@@ -65,3 +65,13 @@ weight: 1
 ---
 
 *感谢您的访问，希望您能在这里找到有价值的内容！* 
+
+---
+title: "我的第一篇博客"
+date: 2024-06-10
+draft: false
+categories: ["技术"]
+tags: ["Hugo", "博客"]
+description: "这是我的第一篇博客，记录Hugo建站过程。"
+---
+正文内容…… 
