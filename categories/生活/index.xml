@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>生活 on JadeHand Blog</title><link>https://jadehand.cn/categories/%E7%94%9F%E6%B4%BB/</link><description>Recent content in 生活 on JadeHand Blog</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jadehand.cn/categories/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml"/><item><title>欢迎来到我的博客</title><link>https://jadehand.cn/posts/welcome/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://jadehand.cn/posts/welcome/</guid><description>&lt;h2 id="欢迎-">欢迎 👋&lt;/h2>
+&lt;p>欢迎来到我的个人博客！这里是我分享技术、生活和思考的地方。&lt;/p>
+&lt;h2 id="关于这个博客">关于这个博客&lt;/h2>
+&lt;p>这个博客使用 &lt;a href="https://gohugo.io/">Hugo&lt;/a> 静态网站生成器构建，采用 &lt;a href="https://github.com/AmazingRise/hugo-theme-diary">Diary&lt;/a> 主题。具有以下特性：&lt;/p>
+&lt;ul>
+&lt;li>🎨 优雅的设计，支持深色模式&lt;/li>
+&lt;li>📱 响应式布局，完美适配移动端&lt;/li>
+&lt;li>🔍 SEO 优化，便于搜索引擎收录&lt;/li>
+&lt;li>⚡ 快速加载，静态文件部署&lt;/li>
+&lt;li>🌍 多语言支持&lt;/li>
+&lt;/ul>
+&lt;h2 id="我将分享什么">我将分享什么&lt;/h2>
+&lt;p>在这个博客中，我将分享：&lt;/p>
+&lt;h3 id="技术文章">技术文章&lt;/h3>
+&lt;ul>
+&lt;li>编程语言学习笔记&lt;/li>
+&lt;li>框架和工具使用心得&lt;/li>
+&lt;li>项目开发经验分享&lt;/li>
+&lt;li>技术问题解决方案&lt;/li>
+&lt;/ul>
+&lt;h3 id="生活随笔">生活随笔&lt;/h3>
+&lt;ul>
+&lt;li>日常思考和感悟&lt;/li>
+&lt;li>读书笔记和推荐&lt;/li>
+&lt;li>生活小技巧分享&lt;/li>
+&lt;/ul>
+&lt;h3 id="学习记录">学习记录&lt;/h3>
+&lt;ul>
+&lt;li>新知识学习过程&lt;/li>
+&lt;li>技能提升心得&lt;/li>
+&lt;li>学习资源推荐&lt;/li>
+&lt;/ul>
+&lt;h2 id="联系方式">联系方式&lt;/h2>
+&lt;p>如果您有任何问题或建议，欢迎通过以下方式联系我：&lt;/p>
+&lt;ul>
+&lt;li>📧 Email: &lt;a href="mailto:your-email@example.com">your-email@example.com&lt;/a>&lt;/li>
+&lt;li>🐙 GitHub: &lt;a href="https://github.com/jadehand">@jadehand&lt;/a>&lt;/li>
+&lt;li>🐦 Twitter: &lt;a href="https://twitter.com/your-twitter">@your-twitter&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="开始阅读">开始阅读&lt;/h2>
+&lt;p>现在就开始探索我的博客吧！您可以从以下文章开始：&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://jadehand.cn/about/">关于我&lt;/a> - 了解更多关于我的信息&lt;/li>
+&lt;li>技术文章 - 查看最新的技术分享&lt;/li>
+&lt;li>生活随笔 - 阅读我的思考和感悟&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>&lt;em>感谢您的访问，希望您能在这里找到有价值的内容！&lt;/em>&lt;/p>
+&lt;hr>
+&lt;h2 id="description-这是我的第一篇博客记录hugo建站过程">title: &amp;ldquo;我的第一篇博客&amp;rdquo;
+date: 2024-06-10
+draft: false
+categories: [&amp;ldquo;技术&amp;rdquo;]
+tags: [&amp;ldquo;Hugo&amp;rdquo;, &amp;ldquo;博客&amp;rdquo;]
+description: &amp;ldquo;这是我的第一篇博客，记录Hugo建站过程。&amp;rdquo;&lt;/h2>
+&lt;p>正文内容……&lt;/p></description></item></channel></rss>

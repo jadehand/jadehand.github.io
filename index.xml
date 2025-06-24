@@ -1,0 +1,267 @@
+<?xml-stylesheet href="/rss.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>JadeHand Blog</title><link>https://jadehand.cn/</link><description>Recent content on JadeHand Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Mon, 10 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jadehand.cn/index.xml" rel="self" type="application/rss+xml"/><item><title>欢迎来到我的博客</title><link>https://jadehand.cn/posts/welcome/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://jadehand.cn/posts/welcome/</guid><description>JadeHand Blog https://jadehand.cn/posts/welcome/ -&lt;h2 id="欢迎-">欢迎 👋&lt;/h2>
+&lt;p>欢迎来到我的个人博客！这里是我分享技术、生活和思考的地方。&lt;/p>
+&lt;h2 id="关于这个博客">关于这个博客&lt;/h2>
+&lt;p>这个博客使用 &lt;a href="https://gohugo.io/">Hugo&lt;/a> 静态网站生成器构建，采用 &lt;a href="https://github.com/AmazingRise/hugo-theme-diary">Diary&lt;/a> 主题。具有以下特性：&lt;/p>
+&lt;ul>
+&lt;li>🎨 优雅的设计，支持深色模式&lt;/li>
+&lt;li>📱 响应式布局，完美适配移动端&lt;/li>
+&lt;li>🔍 SEO 优化，便于搜索引擎收录&lt;/li>
+&lt;li>⚡ 快速加载，静态文件部署&lt;/li>
+&lt;li>🌍 多语言支持&lt;/li>
+&lt;/ul>
+&lt;h2 id="我将分享什么">我将分享什么&lt;/h2>
+&lt;p>在这个博客中，我将分享：&lt;/p>
+&lt;h3 id="技术文章">技术文章&lt;/h3>
+&lt;ul>
+&lt;li>编程语言学习笔记&lt;/li>
+&lt;li>框架和工具使用心得&lt;/li>
+&lt;li>项目开发经验分享&lt;/li>
+&lt;li>技术问题解决方案&lt;/li>
+&lt;/ul>
+&lt;h3 id="生活随笔">生活随笔&lt;/h3>
+&lt;ul>
+&lt;li>日常思考和感悟&lt;/li>
+&lt;li>读书笔记和推荐&lt;/li>
+&lt;li>生活小技巧分享&lt;/li>
+&lt;/ul>
+&lt;h3 id="学习记录">学习记录&lt;/h3>
+&lt;ul>
+&lt;li>新知识学习过程&lt;/li>
+&lt;li>技能提升心得&lt;/li>
+&lt;li>学习资源推荐&lt;/li>
+&lt;/ul>
+&lt;h2 id="联系方式">联系方式&lt;/h2>
+&lt;p>如果您有任何问题或建议，欢迎通过以下方式联系我：&lt;/p>
+&lt;ul>
+&lt;li>📧 Email: &lt;a href="mailto:your-email@example.com">your-email@example.com&lt;/a>&lt;/li>
+&lt;li>🐙 GitHub: &lt;a href="https://github.com/jadehand">@jadehand&lt;/a>&lt;/li>
+&lt;li>🐦 Twitter: &lt;a href="https://twitter.com/your-twitter">@your-twitter&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="开始阅读">开始阅读&lt;/h2>
+&lt;p>现在就开始探索我的博客吧！您可以从以下文章开始：&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://jadehand.cn/about/">关于我&lt;/a> - 了解更多关于我的信息&lt;/li>
+&lt;li>技术文章 - 查看最新的技术分享&lt;/li>
+&lt;li>生活随笔 - 阅读我的思考和感悟&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>&lt;em>感谢您的访问，希望您能在这里找到有价值的内容！&lt;/em>&lt;/p>
+&lt;hr>
+&lt;h2 id="description-这是我的第一篇博客记录hugo建站过程">title: &amp;ldquo;我的第一篇博客&amp;rdquo;
+date: 2024-06-10
+draft: false
+categories: [&amp;ldquo;技术&amp;rdquo;]
+tags: [&amp;ldquo;Hugo&amp;rdquo;, &amp;ldquo;博客&amp;rdquo;]
+description: &amp;ldquo;这是我的第一篇博客，记录Hugo建站过程。&amp;rdquo;&lt;/h2>
+&lt;p>正文内容……&lt;/p>
+- https://jadehand.cn/posts/welcome/ -</description></item><item><title>华为入职Onboarding全流程&amp;实用攻略（2024最新版）</title><link>https://jadehand.cn/posts/huaweionboardding/</link><pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate><guid>https://jadehand.cn/posts/huaweionboardding/</guid><description>JadeHand Blog https://jadehand.cn/posts/huaweionboardding/ -&lt;h2 id="引言">引言&lt;/h2>
+&lt;p>欢迎加入华为大家庭！入职是职业生涯的重要起点，面对繁杂的流程是否感到困惑？本文系统梳理华为入职全流程，涵盖WeLink操作、体检要求、培训安排等关键环节，更有租房信息和高频问题解答。无论你是应届生还是社会招聘新人，这份2024最新攻略将助你从容开启华为之旅！&lt;/p>
+&lt;hr>
+&lt;h2 id="正文">正文&lt;/h2>
+&lt;h3 id="一入职全流程精要">一、入职全流程精要&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>WeLink安装与激活&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>收到入职指引邮件后，立即下载WeLink&lt;/li>
+&lt;li>使用招聘系统预留手机号登录&lt;/li>
+&lt;li>登录异常处理：onboarding@huawei.com&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>个人信息完善&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>证件照要求&lt;/strong>：
+&lt;ul>
+&lt;li>白底免冠两寸照（3.5×5.3cm）&lt;/li>
+&lt;li>深色有袖有领上衣，头发不遮眉眼&lt;/li>
+&lt;li>分辨率＞461×579，大小≤1MB&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>拼音格式&lt;/strong>：华新新 → Hua Xinxin&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>证件上传规范&lt;/strong>&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>学历类型&lt;/th>
+&lt;th>需提交材料&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>中国大陆院校&lt;/td>
+&lt;td>身份证+毕业证+学位证+学历电子注册备案表+学位在线验证报告+英语证书&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>非中国大陆院校&lt;/td>
+&lt;td>身份证+学历学位证+国（境）外学历学位认证书&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>体检关键事项&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>必须通过WeLink预约医院，自行前往无效&lt;/li>
+&lt;li>体检有效期90天，需在有效期内入职&lt;/li>
+&lt;li>初检结果当周周五18:00前通知&lt;/li>
+&lt;li>&lt;strong>间隔要求&lt;/strong>：体检日与入职日间隔≥8天&lt;/li>
+&lt;li>复检需自费，交通费不报销&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>入职日期预约&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>培训默认在常驻地，资源不足可选东莞&lt;/li>
+&lt;li>&lt;strong>抢号技巧&lt;/strong>：每日17:30刷新系统捡漏&lt;/li>
+&lt;li>未预约进群：蓝版WeLink搜索&amp;quot;入职HR-周晓敏&amp;quot;&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>差旅报销说明&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>优先使用慧通差旅平台订票&lt;/li>
+&lt;li>出发地提交后不可更改&lt;/li>
+&lt;li>自驾费用不可报销&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;hr>
+&lt;h3 id="二新员工培训指南">二、新员工培训指南&lt;/h3>
+&lt;h4 id="-前置学习平台">▶ 前置学习平台&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>勇敢新世界新员工学堂&lt;/strong>（培训前1周开放）：
+&lt;ul>
+&lt;li>含NEO前置学习/岗位揭秘/技术讲堂/职场秘籍&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>雏鹰计划&lt;/strong>（ICT/GTS等部门专属）：
+&lt;ul>
+&lt;li>夯实Java/射频/电源等开发能力&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h4 id="-neo入职培训">▶ NEO入职培训&lt;/h4>
+&lt;ul>
+&lt;li>&lt;strong>时间&lt;/strong>：入职当周5天（周一至周五）&lt;/li>
+&lt;li>&lt;strong>住宿&lt;/strong>：统一安排两人间（禁带宠物/家人）&lt;/li>
+&lt;li>&lt;strong>必备物品&lt;/strong>：
+&lt;ul>
+&lt;li>商务休闲装（培训期间发统一服装）&lt;/li>
+&lt;li>运动鞋/水杯/耳机/雨伞等日用品&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>通知方式&lt;/strong>：培训前周五邮件/短信发送指引&lt;/li>
+&lt;/ul>
+&lt;h4 id="-练秋湖租房攻略">▶ 练秋湖租房攻略&lt;/h4>
+&lt;ol>
+&lt;li>&lt;strong>地铁17号线沿线&lt;/strong>：朱家角/淀山湖大道/漕盈路等&lt;/li>
+&lt;li>&lt;strong>西岑单身公寓&lt;/strong>：入职后按需申请&lt;/li>
+&lt;li>&lt;strong>苏州汾湖片区&lt;/strong>：微信搜索&amp;quot;乐居汾湖&amp;quot;小程序&lt;/li>
+&lt;/ol>
+&lt;hr>
+&lt;h3 id="三高频问题解答">三、高频问题解答&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>银行卡如何维护？&lt;/strong>&lt;br>
+→ 入职次日通过红版WeLink【业务】搜索&amp;quot;银行卡&amp;quot;补录&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>四六级证书丢失怎么办？&lt;/strong>&lt;br>
+→ 提交官网成绩截图（含报告编号+个人信息）&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>培训期间可选室友吗？&lt;/strong>&lt;br>
+→ 随机分配，同性好友可同步前台办理入住&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>培训服装要求？&lt;/strong>&lt;br>
+→ 指定时间穿统一服装，其余时间商务休闲装&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;hr>
+&lt;h3 id="四紧急求助通道">四、紧急求助通道&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>问题类型&lt;/th>
+&lt;th>解决渠道&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>通用入职咨询&lt;/td>
+&lt;td>&lt;a href="mailto:HRhotline@huawei.com">HRhotline@huawei.com&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>WeLink异常&lt;/td>
+&lt;td>&lt;a href="mailto:onboarding@huawei.com">onboarding@huawei.com&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>账号登录/系统操作&lt;/td>
+&lt;td>蓝版WeLink【我要入职】-【入职指引】&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>人工服务&lt;/td>
+&lt;td>WeLink搜索&amp;quot;入职HR&amp;quot;&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;blockquote>
+&lt;p>&lt;strong>校招群特别提示&lt;/strong>：仅限&lt;strong>未预约成功&lt;/strong>的同学申请加入（群管理：入职HR-周晓敏）&lt;/p>&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="总结">总结&lt;/h2>
+&lt;p>华为入职流程环环相扣，核心要点可归纳为&amp;quot;三个提前&amp;quot;：&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>提前准备&lt;/strong>：证件照/材料按标准备齐&lt;/li>
+&lt;li>&lt;strong>提前行动&lt;/strong>：体检/入职日需间隔8天以上&lt;/li>
+&lt;li>&lt;strong>提前学习&lt;/strong>：善用勇敢新世界平台前置课程&lt;/li>
+&lt;/ol>
+&lt;p>牢记&amp;quot;按指引操作+及时沟通&amp;quot;原则，遇到问题善用四大求助渠道。祝愿每位新同事在华为的舞台上精彩启航！&lt;/p>
+&lt;hr>
+&lt;p>&lt;em>最后更新时间：2025-06-24T13:51:36+08:00&lt;/em>&lt;/p>
+- https://jadehand.cn/posts/huaweionboardding/ -</description></item><item><title>关于我</title><link>https://jadehand.cn/about/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://jadehand.cn/about/</guid><description>JadeHand Blog https://jadehand.cn/about/ -&lt;h2 id="你好我是-jadehand-">你好，我是 JadeHand 👋&lt;/h2>
+&lt;p>欢迎来到我的个人博客！这里是我分享技术、生活和思考的地方。&lt;/p>
+&lt;h3 id="关于我">关于我&lt;/h3>
+&lt;ul>
+&lt;li>🎯 热爱技术，喜欢探索新事物&lt;/li>
+&lt;li>📝 喜欢写作，记录学习和成长&lt;/li>
+&lt;li>🌱 持续学习，不断进步&lt;/li>
+&lt;li>☕ 咖啡爱好者&lt;/li>
+&lt;/ul>
+&lt;h3 id="技术栈">技术栈&lt;/h3>
+&lt;ul>
+&lt;li>前端：HTML, CSS, JavaScript, React, Vue&lt;/li>
+&lt;li>后端：Node.js, Python, Go&lt;/li>
+&lt;li>数据库：MySQL, MongoDB, Redis&lt;/li>
+&lt;li>其他：Docker, Git, Linux&lt;/li>
+&lt;/ul>
+&lt;h3 id="联系方式">联系方式&lt;/h3>
+&lt;ul>
+&lt;li>📧 Email: &lt;a href="mailto:your-email@example.com">your-email@example.com&lt;/a>&lt;/li>
+&lt;li>🐙 GitHub: &lt;a href="https://github.com/your-github-username">your-github-username&lt;/a>&lt;/li>
+&lt;li>🐦 Twitter: &lt;a href="https://twitter.com/your-twitter-username">@your-twitter-username&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>&lt;em>感谢你的访问！如果有什么问题或建议，欢迎联系我。&lt;/em>&lt;/p>
+- https://jadehand.cn/about/ -</description></item><item><title>页面未找到</title><link>https://jadehand.cn/404/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://jadehand.cn/404/</guid><description>JadeHand Blog https://jadehand.cn/404/ -&lt;h2 id="404---页面未找到">404 - 页面未找到&lt;/h2>
+&lt;p>抱歉，您访问的页面不存在。&lt;/p>
+&lt;h3 id="可能的原因">可能的原因：&lt;/h3>
+&lt;ul>
+&lt;li>页面已被移动或删除&lt;/li>
+&lt;li>链接地址输入错误&lt;/li>
+&lt;li>页面还在建设中&lt;/li>
+&lt;/ul>
+&lt;h3 id="建议操作">建议操作：&lt;/h3>
+&lt;ul>
+&lt;li>检查网址是否正确&lt;/li>
+&lt;li>返回 &lt;a href="https://jadehand.cn/">首页&lt;/a>&lt;/li>
+&lt;li>查看 &lt;a href="https://jadehand.cn/posts/">文章列表&lt;/a>&lt;/li>
+&lt;li>访问 &lt;a href="https://jadehand.cn/about/">关于页面&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>&lt;em>如有问题，欢迎 &lt;a href="mailto:your-email@example.com">联系我&lt;/a>&lt;/em>&lt;/p>
+- https://jadehand.cn/404/ -</description></item></channel></rss>
