@@ -11,8 +11,7 @@ theme = 'diary'
   author = "JadeHand"
   
   # 社交媒体链接
-  github = "your-github-username"
-  twitter = "your-twitter-username"
+  github = "jadehand"
   
   # 网站图标
   favicon = "/favicon.ico"

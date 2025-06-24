@@ -1,19 +1,19 @@
-# Hugo
+# Hugo 构建产物
 public/
 resources/
 .hugo_build.lock
 
-# OS
-.DS_Store
-Thumbs.db
-desktop.ini
-
-# IDE
-.vscode/
+# IDE 和编辑器临时文件
 .idea/
+.vscode/
 *.swp
 *.swo
 *~
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
 
 # Logs
 *.log
